@@ -1,0 +1,9 @@
+{
+	"Changelist" : 3299760,
+	"BuildId" : "4041589d-43ad-4645-89e2-7c411039c9c6",
+	"Modules" : 
+	{
+		"FootIKRuntime" : "UE4Editor-FootIKRuntime.dll",
+		"FootIKEditor" : "UE4Editor-FootIKEditor.dll"
+	}
+}
